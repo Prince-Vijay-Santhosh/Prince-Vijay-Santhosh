@@ -42,6 +42,13 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Vijay-Santhosh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Vijay-Santhosh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Vijay-Santhosh&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Prince-Vijay-Santhosh&show_icons=true&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Vijay-Santhosh&theme=tokyonight_duo)
+
+
+
+
 ## GitHub Badges
 [![@anantavaishnavi's Holopin board](https://holopin.io/api/user/board?user=princevijaysanthosh)](https://www.holopin.io/@princevijaysanthosh)
 
