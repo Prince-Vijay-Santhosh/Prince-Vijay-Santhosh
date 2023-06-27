@@ -37,17 +37,18 @@ You can click the Preview link to take a look at your changes.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prince-Vijay-Santhosh&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Vijay-Santhosh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Vijay-Santhosh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Vijay-Santhosh&theme=tokyonight_duo)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Vijay-Santhosh&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Vijay-Santhosh&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
 
 ## GitHub Badges
-[![@anantavaishnavi's Holopin board](https://holopin.io/api/user/board?user=princevijaysanthosh)](https://www.holopin.io/@princevijaysanthosh)
+[![@princevijaysanthosh's Holopin board](https://holopin.io/api/user/board?user=princevijaysanthosh)](https://www.holopin.io/@princevijaysanthosh)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prince-Vijay-Santhosh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
