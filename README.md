@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 - 🥇 Featured:- Intel® Student Ambassador | Community Leader Intern | President of SRU Literary Club
 - 🏆 Achievements:- Google Hash Code 1813 Global Rank | SIH 2022 Finalist
 
-
 ## 🌐 Socials:
 <p align="left">
   <a href="https://www.linkedin.com/in/princevijaysanthoshkongara"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:princevijaysanthoshk@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@princevijaysanthosh"><img title="YouTube" src="https://img.shields.io/badge/YouTube-F14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
+  
 ## 💻 Tech Stack:
 <p align="left">
  <a href="#">
@@ -52,5 +52,7 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prince-Vijay-Santhosh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+  
 ---
 [![](https://visitcount.itsvg.in/api?id=Prince-Vijay-Santhosh&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
