@@ -3,7 +3,7 @@ Prince-Vijay-Santhosh/Prince-Vijay-Santhosh is a ✨ special ✨ repository beca
 You can click the Preview link to take a look at your changes.
 --->
 
-# 💫 About Me:
+## 💫 About Me:
 - 👋 Hi, I’m @Prince-Vijay-Santhosh
 - 👀 I’m interested in programming and problem-solving. I have basic knowledge of web development (HTML, C, C+, Javascript, and Python).
 - 🌱 I’m currently learning Computer Science Engineering with a specialization in Data Science 
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:princevijaysanthoshk@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@princevijaysanthosh"><img title="YouTube" src="https://img.shields.io/badge/YouTube-F14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="left">
  <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -35,14 +35,20 @@ You can click the Preview link to take a look at your changes.
  </a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prince-Vijay-Santhosh&show_icons=true&theme=radical&hide=stars)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Vijay-Santhosh&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Vijay-Santhosh&langs_count=6&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
+## Microsoft Certifications
+<a>
+
+<img src="https://github.com/Prince-Vijay-Santhosh/Prince-Vijay-Santhosh/blob/main/microsoft-certified-azure-ai-fundamentals.png" alt="microsoft-certified-azure-ai-fundamentals" width="10%"> <img src="https://github.com/Prince-Vijay-Santhosh/Prince-Vijay-Santhosh/blob/main/microsoft-certified-azure-data-fundamentals.png" alt="microsoft-certified-azure-data-fundamentals" width="10%"> <img src="https://github.com/Prince-Vijay-Santhosh/Prince-Vijay-Santhosh/blob/main/microsoft-certified-azure-fundamentals.png" alt="microsoft-certified-azure-fundamentals" width="10%"> <img src="https://github.com/Prince-Vijay-Santhosh/Prince-Vijay-Santhosh/blob/main/microsoft-certified-power-platform-fundamentals.png" alt="microsoft-certified-power-platform-fundamentals" width="10%">
+</a>
 
 ## GitHub Badges
 [![@princevijaysanthosh's Holopin board](https://holopin.io/api/user/board?user=princevijaysanthosh)](https://www.holopin.io/@princevijaysanthosh)
+<a href=https://www.credly.com/users/prince-vijay-santhosh-kongara>Check out more badges here</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prince-Vijay-Santhosh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
