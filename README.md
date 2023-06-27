@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-- 👋 Hi, I’m @Prince-Vijay-Santhosh
-- 👀 I’m interested in programming and problem-solving. I have basic knowledge of web development (HTML, C, C+, Javascript, and Python).
-- 🌱 I’m currently learning Computer Science Engineering with a specialization in Data Science 
+- 👋 Hi, I’m @Prince-Vijay-Santhosh a Frontend Developer and Data Scientist.
+- 🌱 I’m currently pursuing Computer Science Engineering with a specialization in Data Science, where I am continuously enhancing my skills and knowledge.
+- 👀 I'm actively seeking opportunities to collaborate on challenging projects and internships that allow me to apply my expertise and contribute to meaningful solutions.
 - 💞️ I’m looking to collaborate on projects and internships.
 - 🥇 Featured:- Intel® Student Ambassador | Community Leader Intern | President of SRU Literary Club
 - 🏆 Achievements:- Google Hash Code 1813 Global Rank | SIH 2022 Finalist
