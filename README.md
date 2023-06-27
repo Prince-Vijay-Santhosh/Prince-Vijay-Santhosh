@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently pursuing Computer Science Engineering with a specialization in Data Science, where I am continuously enhancing my skills and knowledge.
 - 👀 I'm actively seeking opportunities to collaborate on challenging projects and internships that allow me to apply my expertise and contribute to meaningful solutions.
 - 💞️ I’m looking to collaborate on projects and internships.
-- 🥇 Featured:- Intel® Student Ambassador | Community Leader Intern | President of SRU Literary Club
+- 🥇 Featured:- Founder @Cod3 Knights | Intel® Student Ambassador | Zonal Head @StudentTribe | Fellowship @Foruppo
 - 🏆 Achievements:- Google Hash Code 1813 Global Rank | SIH 2022 Finalist
 
 ## 🌐 Socials:
