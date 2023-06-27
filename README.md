@@ -1,5 +1,3 @@
-
-
 <!---
 Prince-Vijay-Santhosh/Prince-Vijay-Santhosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -38,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prince-Vijay-Santhosh&show_icons=true&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Prince-Vijay-Santhosh&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Vijay-Santhosh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Vijay-Santhosh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
