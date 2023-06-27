@@ -40,13 +40,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Vijay-Santhosh&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Vijay-Santhosh&layout=donut-vertical&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-
 ## GitHub Badges
 [![@princevijaysanthosh's Holopin board](https://holopin.io/api/user/board?user=princevijaysanthosh)](https://www.holopin.io/@princevijaysanthosh)
 
