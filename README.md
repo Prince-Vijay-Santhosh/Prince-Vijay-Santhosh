@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <a href=https://www.credly.com/users/prince-vijay-santhosh-kongara>Check out more badges here</a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prince-Vijay-Santhosh&theme=radical&no-frame=false&no-bg=true&margin-w=4)[]
+![](https://github-profile-trophy.vercel.app/?username=Prince-Vijay-Santhosh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
   
