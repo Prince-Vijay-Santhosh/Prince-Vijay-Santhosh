@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 ## GitHub Badges
-[![@princevijaysanthosh's Holopin board](https://holopin.io/api/user/board?user=princevijaysanthosh)](https://www.holopin.io/@princevijaysanthosh)
+[![@princevijaysanthosh's Holopin board](https://holopin.me/princevijaysanthosh)](https://holopin.io/@princevijaysanthosh)
 <a href=https://www.credly.com/users/prince-vijay-santhosh-kongara>Check out more badges here</a>
 
 ## 🏆 GitHub Trophies
